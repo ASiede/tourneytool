@@ -1,0 +1,30 @@
+* {
+	box-sizing: border-box;
+}
+
+
+h1 {
+	background-color: #282c34;
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	border: 3px solid #282c34;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 0px;
+	
+}
+
+li {
+	list-style: none;
+}
+
